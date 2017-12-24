@@ -1,0 +1,7 @@
+es_filter/node_modules/*
+es_filter/*.sqlite3
+elasticsearch-6.1.1/*
+es_filter/*/__pycache__/*
+*/*.pyc
+fabfile.pyc
+

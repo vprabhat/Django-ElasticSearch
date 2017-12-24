@@ -1,0 +1,8 @@
+django==1.9.6
+djangorestframework==3.5.3
+django-extensions
+elasticsearch
+model_mommy
+ipython
+requests
+uwsgi
